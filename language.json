@@ -9,14 +9,9 @@
       "title": "Potion of Flight",
       "volume": "1",
       "groups": {
-        "The Abyss": [
-          "https://i.imgur.com/nCWzjgx.png",
-          "https://i.imgur.com/yYTTtnE.png",
-          "https://i.imgur.com/wlesYYw.png",
-          "https://i.imgur.com/NFRm2WQ.png"
-        ]
+        "The Abyss": "/proxy/api/imgchest/chapter/dl7plax3k4o/"
       },
       "last_updated": "1792674484"
-    },
+    }
   }
 }
