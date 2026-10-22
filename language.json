@@ -10,7 +10,7 @@
       "volume": "1",
       "last_updated": "1792674484",
       "groups": {
-        "Test": "/proxy/api/imgchest/chapter/dl7plax3k4o/"
+        "": "/proxy/api/imgchest/chapter/dl7plax3k4o/"
       }
     },
     "2": {
@@ -18,7 +18,15 @@
       "volume": "1",
       "last_updated": "1792677382",
       "groups": {
-        "Test": "/proxy/api/imgur/chapter/5xy2roznz4l/"
+        "": "/proxy/api/imgchest/chapter/5xy2roznz4l/"
+      }
+    },
+    "3": {
+      "title": "The Secret Ingredients",
+      "volume": "1",
+      "last_updated": "1792677382",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2roznz4l/"
       }
     }
   }
