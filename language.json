@@ -1,6 +1,6 @@
 {
   "title": "Pepper & Carrot",
-  "description": "test",
+  "description": "A webcomic that follows the adventures of a young witch named Pepper and her mischievous cat, Carrot. A comedic journey for all ages that embraces creative thinking in a parodic fantasy world.",
   "artist": "David Revoy",
   "author": "David Revoy",
   "cover": "https://www.peppercarrot.com/0_sources/0ther/artworks/hi-res/2016-02-24_vertical-cover_remake_by-David-Revoy.jpg",
@@ -24,7 +24,7 @@
     "3": {
       "title": "The Secret Ingredients",
       "volume": "1",
-      "last_updated": "1792677382",
+      "last_updated": "1792678630",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9rydg2lo6yk/"
       }
