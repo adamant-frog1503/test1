@@ -1,0 +1,17 @@
+{
+  "title": "Pepper & Carrot",
+  "description": "?",
+  "artist": "?",
+  "author": "?",
+  "cover": "?",
+  "chapters": {
+    "1": {
+      "title": "Potion of Flight",
+      "volume": "1",
+      "groups": {
+        "The Abyss": "/proxy/api/imgchest/chapter/dl7plax3k4o/"
+      },
+      "last_updated": "1792674484"
+    },
+  }
+}
