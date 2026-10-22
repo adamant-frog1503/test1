@@ -1,17 +1,25 @@
 {
   "title": "Pepper & Carrot",
   "description": "test",
-  "artist": "test",
-  "author": "test",
-  "cover": "https://mangadex.org/covers/ac8b964c-7952-431c-8f9c-905aae4de704/b8bceb08-5f10-49fd-b07c-132213e727fe.jpg",
+  "artist": "David Revoy",
+  "author": "David Revoy",
+  "cover": "https://www.peppercarrot.com/0_sources/0ther/artworks/hi-res/2016-02-24_vertical-cover_remake_by-David-Revoy.jpg",
   "chapters": {
     "1": {
-      "title": "Potion of Flight",
+      "title": "The Potion of Flight",
       "volume": "1",
+      "last_updated": "1792674484",
       "groups": {
-        "The Abyss": "/proxy/api/imgchest/chapter/dl7plax3k4o/"
+        "Test": "/proxy/api/imgchest/chapter/dl7plax3k4o/"
       },
-      "last_updated": "1792674484"
+    },
+    "2": {
+      "title": "Rainbow Potions",
+      "volume": "1",
+      "last_updated": "1792677382"
+      "groups": {
+        "Test": "/proxy/api/imgur/chapter/5xy2roznz4l/"
+      }
     }
   }
 }
